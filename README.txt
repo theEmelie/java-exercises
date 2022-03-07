@@ -1,0 +1,1 @@
+Excercise 3 can be found inside the excercise 2 folder (CollectionMain.java), as excercise 3 is about testing excerise 2.
